@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "karma": "2.0.5",
+    "karma-tap": "latest",
+    "tape": "latest",
+    "browserify": "latest",
+    "karma-browserify": "latest",
+    "watchify": "latest"
+  },
+  "scripts": {
+    "test": "karma start"
+  }
+}
